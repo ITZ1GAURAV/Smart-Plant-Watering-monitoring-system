@@ -37,3 +37,12 @@ It was little hard but also very interesting to plan the circuit and think how e
 ![IMG_20251019_220050.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fddc350bdab5a0dd6a54dea52e1c908ba651f61c/IMG_20251019_220050.jpg)
   
 
+## 10/20/2025 - Preparing BOM  
+
+Today I worked on making the list of components for my Smart Plant Watering & Monitoring System. I selected ESP32 as main controller, DHT11 sensor for temperature and humidity, soil moisture sensor, 16x2 LCD, relay, water pump, tubing, breadboard with jumper wires, USB cable, plastic boxes and a power bank. I also decided how many of each I need and estimated total cost.
+
+While doing this I faced some problems. First, it was confusing to choose which ESP32 module to buy because there are many types and I was not sure which one is best for my project. Then I had trouble checking compatibility of sensors and relay with ESP32. I also wanted to keep the cost reasonable but some items were expensive or sold in packs, so I had to calculate carefully how many I need. Choosing the plastic boxes and tubing was tricky too because I had to make sure water will not leak and electronics stay safe.
+
+I added Amazon links for all components and will include screenshots of important products in the journal. This really helped me understand why each component is needed and how all will work together in final project. Even though it was little hard, it was fun to plan everything and think how the actual hardware will be connected later.![Screenshot_2025-10-19-22-17-20-813_com.android.chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e57024b2492987bc68acc6f867f1a2c9dcbc941f/Screenshot_2025-10-19-22-17-20-813_com.android.chrome.jpg)![Screenshot_2025-10-19-22-15-00-787_com.android.chrome.jpg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5489c440c34e44176cd376e1836271d7dcb76a1e/Screenshot_2025-10-19-22-15-00-787_com.android.chrome.jpg)
+![Screenshot_2025-10-19-22-15-51-022_com.android.chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--d02f3b512ffebdcd5c2b0159ea328339c098ab9c/Screenshot_2025-10-19-22-15-51-022_com.android.chrome.jpg)  
+
