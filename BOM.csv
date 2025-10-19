@@ -2,7 +2,7 @@ S. No.,Component,Quantity,Purpose,Unit Price (INR),Total Price (INR),Amazon Link
 1,ESP32-WROOM-32 Development Board,1,Main controller; reads sensors, controls pump, communicates with mobile app,629,629,https://amzn.in/d/5PgcyNv
 2,DHT11 Temperature & Humidity Sensor,1,Measures temperature and humidity of environment,199,199,https://amzn.in/d/7xOC0XX
 3,Soil Moisture Sensor Module,1,Detects soil water level; triggers watering,65,65,https://amzn.in/d/i9wqEUd
-4,5V Submersible Water Pump,3,Pumps water automatically to plant,164,492,https://amzn.in/d/cnRZuDk
+4,5V Submersible Water Pump,3,Pumps water automatically to plant,54.67,164,https://amzn.in/d/cnRZuDk
 5,5V Relay Module,2,Allows ESP32 to safely switch water pump on/off,99,198,https://amzn.in/d/3LXltph
 6,16x2 I2C LCD Display Module,1,Shows soil moisture, temperature, and humidity data,225,225,https://amzn.in/d/0psm6o5
 7,Jumper Wires + Breadboard,1 set,For wiring between ESP32, sensors, relay, and LCD,403,403,https://amzn.in/d/4WCmkpc
