@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Smart Plant Watering & Monitoring System**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/725).
-
-
 ## 10/19/2025 12 PM - Setup Project created and banner  project added repo link   
 
 Today I finally started working on my **Smart Plant Watering & Monitoring System** project in Hack Club Blueprint. I spent a good amount of time just setting everything up and thinking about how I want the project to look and work. First, I added the project title and wrote a detailed description explaining what my project does and why it’s useful. I made sure to explain that it will automatically water plants when the soil is dry, monitor soil moisture, temperature, and humidity, display all the information on a 16x2 LCD, and connect to a mobile app for remote monitoring. I tried to make the description clear so anyone reading it would understand what I’m building, even if they don’t know much about electronics.
@@ -52,4 +48,15 @@ Today I made a small plan about how my Smart Plant Watering & Monitoring System 
 
 In the next steps, I want to connect everything physically and test how it works. I also plan to make the code better by adding LED indicators and maybe a buzzer alert when the soil is too dry. For now, I have only simulated the sensors and wiring, but once I get all components, I will do the real testing. This project taught me how IoT systems actually communicate and how automation can make daily life easier.![file_0000000063786209ac14e1f0083f3644.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--9b9f0bbebd9e958f6f38caba9ecc95e432b225f7/file_0000000063786209ac14e1f0083f3644.png)
   
+
+## 10/21/2025 - Code planing  
+
+Today I started working on the code for my Smart Plant Watering & Monitoring System. I wrote the basic structure in Arduino IDE on my phone using an online compiler. My main goal was to plan how each part of the project will work together — like reading the soil moisture, temperature, and humidity data, and turning the relay ON when the soil becomes dry.
+
+At first, I wrote simple code to read values from the soil moisture sensor using the analog pin. Then I added DHT11 sensor code to measure temperature and humidity. I also planned how the LCD will show all three readings together. I didn’t connect the actual components yet, but I tested the logic part to see if it compiles properly.
+
+While coding, I faced some small problems like missing libraries and errors with the LCD and DHT sensor libraries. I had to search online to find the correct ones and understand how to include them properly. I also got a bit confused between analog and digital pins for the sensors, but after some tries I understood how ESP32 handles them.
+
+I also planned how to later connect this with the Blynk app for real-time monitoring. I learned about Blynk tokens and how to send data to the cloud using Wi-Fi. It was quite fun to imagine how everything will work together even before building it. I spent around 2 hours today planning and writing the code, and now I feel more confident that my logic is correct for when I get the components.
+![IMG_20251021_115952.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--961e821f3a03adf69bbcb9ce43ff2a18eb3fd42d/IMG_20251021_115952.jpg)  
 
