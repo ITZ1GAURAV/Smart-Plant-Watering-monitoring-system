@@ -60,3 +60,14 @@ While coding, I faced some small problems like missing libraries and errors with
 I also planned how to later connect this with the Blynk app for real-time monitoring. I learned about Blynk tokens and how to send data to the cloud using Wi-Fi. It was quite fun to imagine how everything will work together even before building it. I spent around 2 hours today planning and writing the code, and now I feel more confident that my logic is correct for when I get the components.
 ![IMG_20251021_115952.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--961e821f3a03adf69bbcb9ce43ff2a18eb3fd42d/IMG_20251021_115952.jpg)  
 
+## 10/22/2025 - Power bank change and tried to make 3d model  
+
+Today I changed my powerbank. The old one was too costly so I found a new one which is cheaper but works good also. The new one cost ₹849 and will power my ESP32, sensors and pumps easily. Here is the link https://amzn.in/d/jcUfgKE.
+
+Also I wanted to share that I’m doing this full project only on my mobile phone (4GB RAM) because I don’t have a laptop. I belong to a middle class family and we can’t afford laptop right now but I really love doing electronic and coding things. So I’m trying my best to learn and build this from what I have.
+
+I even tried to make a 3D model for my project using Prisma 3D app in phone but it was so hard to make it properly on small screen. I’ll still keep trying to make something simple.
+
+I’m just very excited to finish this project soon. I really want to learn more things like IoT and automation. Thanks to Hack Club for giving this kind of chance to students like me 🙏❤️![Screenshot_2025-10-22-07-34-44-478_in.amazon.mShop.android.shopping.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--edc225b6116d3bb5b72bc6d0b431ff9d3b067582/Screenshot_2025-10-22-07-34-44-478_in.amazon.mShop.android.shopping.jpg)
+  
+
