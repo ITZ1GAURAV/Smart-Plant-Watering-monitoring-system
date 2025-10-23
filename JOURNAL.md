@@ -21,15 +21,17 @@ Overall, this was my first real step in building the project. I spent around 2 h
 
 ## 10/19/2025 10 PM - Circuit designing   
 
-Today I started planning the circuit of my Smart Plant Watering & Monitoring System. I added ESP32, DHT11 temperature and humidity sensor, soil moisture sensor and 16x2 LCD display. I also planned that water pump will be connected to relay and ESP32 will turn it on when soil is dry.
+Today I finally started working on my Smart Plant Watering and Monitoring System project in Hack Club Blueprint I spend like 2 hours just setting up everything and thinking how I want it to look and work First I added the project title and wrote a long description about what my project does and why its useful I said that it will water plants automatically when soil is dry and it will also check soil moisture temperature and humidity and show all that on a 16x2 LCD and also connect to a mobile app so we can see everything from phone I tried to write it in a way that anyone can understand even if they don’t know electronics much
 
-While making the circuit i faced many problems. First, connecting all the sensors and lcd was little confusing because i was not sure about which pins to use. I also wanted to add water pump with relay, but there are not enough pins in ESP32 to connect everything in Circuito. It was little frustrating because i couldnt connect pump and relay like in real project.
+Then I made a GitHub repo for the project I didn’t really know how to do it from phone but after trying some times I finally made it I gave it a name and copied the HTTPS link and added it in the repo link part in Blueprint I didn’t upload code yet but still it feels nice to have it ready Now I can put my Arduino code circuit and screenshots there later when I do more stuff
 
-Even though i couldnt fully connect pump, i learned a lot about how ESP32 reads sensor values, how relay works, and how lcd can display temperature, humidity and soil moisture. I also understood pin limitations and how to organize connections properly.
+I also uploaded a banner pic that I found online it was about IoT smart plant watering It looks clean and makes my project page look cooler I think when someone sees it they will quickly get what my project is about
 
-I took screenshots of the circuit layout and wrote all my code in Circuito for sensors and lcd. In the code i explained how pump will work when soil is dry. Later, when i get all components physically, i will assemble full project and test everything.
+After that I was planning how to connect everything ESP32 soil sensor DHT sensor relay LCD and water pump I was thinking which pins I will use and how sensors will send data to ESP32 and how to show it on LCD and app I didn’t draw circuit yet because I am on phone but in my head I can imagine it clearly
 
-It was little hard but also very interesting to plan the circuit and think how every component will work together. I also realized that sometimes virtual tools have limitations, but it helped me understand how the real hardware connections will be.
+So ya this was my first real step in this project It feels good to finally start it I am excited to write code test it and then make the actual system I will keep updating my journal as I go ahead This is just the start but I am feeling really motivated
+
+
 ![IMG_20251019_220050.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fddc350bdab5a0dd6a54dea52e1c908ba651f61c/IMG_20251019_220050.jpg)
   
 
