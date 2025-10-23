@@ -21,15 +21,16 @@ Overall, this was my first real step in building the project. I spent around 2 h
 
 ## 10/19/2025 10 PM - Circuit designing   
 
-Today I finally started working on my Smart Plant Watering and Monitoring System project in Hack Club Blueprint I spend like 2 hours just setting up everything and thinking how I want it to look and work First I added the project title and wrote a long description about what my project does and why its useful I said that it will water plants automatically when soil is dry and it will also check soil moisture temperature and humidity and show all that on a 16x2 LCD and also connect to a mobile app so we can see everything from phone I tried to write it in a way that anyone can understand even if they don’t know electronics much
+Today I finally started working on my Smart Plant Watering and Monitoring System project in Hack Club Blueprint I spent like 2 hours just setting up stuff and thinking how I want everything to look and work First I added the project name and wrote a simple description about what my project does and why it’s useful I said it will water plants by itself when the soil gets dry and it will also check soil moisture temperature and humidity and show all that on a 16x2 LCD It will also connect to a mobile app so we can see everything from our phone I tried to write it in a way that anyone can understand even if they don’t know much about electronics
 
-Then I made a GitHub repo for the project I didn’t really know how to do it from phone but after trying some times I finally made it I gave it a name and copied the HTTPS link and added it in the repo link part in Blueprint I didn’t upload code yet but still it feels nice to have it ready Now I can put my Arduino code circuit and screenshots there later when I do more stuff
+Then I made a GitHub repo for it I didn’t really know how to do it on phone but after trying few times I finally made it I gave it a name and copied the link and added it in the repo section in Blueprint I haven’t uploaded my code yet but it still feels nice that I got the repo ready Now I can put my Arduino code and circuit pics later when I start doing more things
 
-I also uploaded a banner pic that I found online it was about IoT smart plant watering It looks clean and makes my project page look cooler I think when someone sees it they will quickly get what my project is about
+I also added a banner photo I found online It was about IoT plant watering and it looks really nice It makes my project page look better and I think when people see it they will quickly understand what my project is about
 
-After that I was planning how to connect everything ESP32 soil sensor DHT sensor relay LCD and water pump I was thinking which pins I will use and how sensors will send data to ESP32 and how to show it on LCD and app I didn’t draw circuit yet because I am on phone but in my head I can imagine it clearly
+After that I was thinking how to connect all the parts like ESP32 soil sensor DHT sensor relay LCD and the water pump I was planning which pins I will use and how the sensors will send data to ESP32 and how I will show it on LCD and mobile app I didn’t make the circuit diagram yet because I’m on phone but I can already imagine it in my head
 
-So ya this was my first real step in this project It feels good to finally start it I am excited to write code test it and then make the actual system I will keep updating my journal as I go ahead This is just the start but I am feeling really motivated
+So yeah this was my first real step in this project It feels so good to finally start it I’m really excited to write the code test it out and then make the real system I’ll keep updating my journal as I go This is just the beginning but I’m super motivated right now
+
 
 
 ![IMG_20251019_220050.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fddc350bdab5a0dd6a54dea52e1c908ba651f61c/IMG_20251019_220050.jpg)
