@@ -1,37 +1,46 @@
 # Smart Plant Watering and Monitoring System
 
-**hey im gaurav im 15 yrs old and i made this full project using just my phone cuz i dont have any laptop. my phone has only 4gb ram but still i wanted to learn and make something cool so i did it.
-this project is smart plant watering n monitoring system. it can water plants automatic when soil is dry and also show temp n humidity on lcd.**
+**Hi, I am Gaurav. I am 15 years old and I made this whole project using only my phone because I do not have a laptop. My phone has just 4GB RAM, but I really wanted to learn and make something cool, so I tried my best and completed it.
+This project is called the Smart Plant Watering and Monitoring System. It can automatically water plants when the soil becomes dry and also shows temperature and humidity on an LCD screen.**
 
-# how it works
+# How It Works
 
-**the soil sensor checks if soil is dry.
-if its dry then esp32 turns on relay and water pump starts.
-it sends water to plant using small pipe.
-when soil gets wet again, pump stops.
-dht11 sensor shows temp and humidity on lcd.
-all things work with esp32 n small box i used to keep everything safe.**
+**The soil moisture sensor checks if the soil is dry.
+When it becomes dry, the ESP32 turns on the relay, which starts the water pump.
+The pump sends water to the plant through a small pipe.
+When the soil becomes wet again, the pump stops automatically.
+The DHT11 sensor measures temperature and humidity and displays the data on the LCD screen.
+All parts are connected to the ESP32 and placed safely inside a small plastic box to protect them.**
 
-# components i used
+# Components Used
 
-**esp32 board**
-**dht11 sensor**
-**soil moisture sensor**
+**ESP32 board**
+
+**DHT11 sensor**
+
+**Soil moisture sensor**
+
 **3 water pumps**
+
 **2 relay modules**
-**16x2 lcd display**
-**jumper wires and breadboard**
-**type c cable**
-**plastic box**
-**small pipe**
 
-# Box 
+**16x2 LCD display**
 
-**i used small plastic box to keep esp32, relay, lcd n wires safe from water.
-made small holes for sensors to go outside.
-lcd is on top so i can see data easily.
-i tried to make 3d model in prisma 3d app on my phone but it didnt work good. so i just used box setup instead.**
+**Jumper wires and breadboard**
 
-# About me
+**Type-C cable**
 
-**im from middle class family n my parents cant afford laptop rn. still i really like electronics and coding stuff so i did all this on my phone. i learned a lot from this project and i wanna make more like this.**
+**Plastic box**
+
+**Small pipe**
+
+# Box
+
+**I used a small plastic box to keep the ESP32, relay, LCD, and wires safe from water.
+I made small holes for the sensors to go outside and placed the LCD on top so I can easily see the readings.
+I tried to make a 3D model in the Prisma 3D app on my phone, but it did not work well, so I made this simple setup using the box instead.**
+
+# About Me
+
+**I am from a middle-class family and my parents cannot afford a laptop right now. Still, I really love electronics and coding, so I am doing all this on my phone.
+This project taught me a lot about sensors, coding, and circuits, and I want to keep learning and making more projects like this in the future.**
