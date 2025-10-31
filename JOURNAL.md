@@ -79,3 +79,15 @@ I’m just very excited to finish this project soon. I really want to learn more
 1. hey guys, so i just made some new updates in my project after @Kai Pereira told me about few changes. first thing, i changed my whole readme and wrote everything by myself this time without using any ai or help. it took me some time to think and write it in my own words but i did it finally. i also added a plastic box as a cover for my components, so all parts like esp32, sensors, lcd etc can stay safe and fixed in one place. it also makes the project look more clean and proper. i used whatever i had at home and tried my best to make it look neat. i don’t have a laptop or big setup, i’m doing all this just on my 4gb ram phone and still trying to make everything work good. i even tried to make a 3d model on prisma 3d but it was really hard on mobile so i used a real plastic box instead. i’m enjoying learning all this slowly and it feels really good to build something on my own. i hope now my project gets approved and i can keep improving it more later![Screenshot_2025-10-30-19-24-35-884_in.amazon.mShop.android.shopping](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--6b6372bd686021a9b68f1292d00e44958be35865/Screenshot_2025-10-30-19-24-35-884_in.amazon.mShop.android.shopping.jpg)
   
 
+## 10/31/2025 - Case  
+
+ I got a new plastic case from Amazon for ₹699 — https://amzn.in/d/9KpNJyE. This one is not for the project setup but for keeping all my electronic components safe and organized.
+
+Earlier I was using a small plastic box to hold the ESP32, relay, LCD, and sensors in my project itself. That box still works great for the Smart Plant Watering System. But now, since I started collecting more parts like jumper wires, sensors, and other small stuff, I needed a proper place to keep them all together so they don’t get lost or damaged.
+
+This new case has separate slots, so it’s easy to find components when I’m building or fixing something. It really helps me stay organized, especially since I’m doing everything from my phone and don’t have a laptop yet.
+
+So yeah, this update is just to show that I got a proper case for storing my electronic parts safely, while my project setup is still in the plastic box I made earlier!
+![Screenshot_2025-10-31-07-14-34-693_in.amazon.mShop.android.shopping](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef719058f02a1ab2e2fca81f193a47bce78a4fd0/Screenshot_2025-10-31-07-14-34-693_in.amazon.mShop.android.shopping.jpg)
+  
+
