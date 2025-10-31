@@ -7,8 +7,8 @@ S. No.,Component,Quantity,Purpose,Unit Price (INR),Total Price (INR),Amazon Link
 6,16x2 I2C LCD Display Module,2,Shows soil moisture, temperature, and humidity data,226,452,https://amzn.in/d/0psm6o5
 7,Jumper Wires + Breadboard,1 set,For wiring between ESP32, sensors, relay, and LCD,425,425,https://amzn.in/d/4WCmkpc
 8,USB Type-C Cable,1,Power ESP32 and upload code,119,119,https://amzn.in/d/d0gMZAQ
-9,Tubing / Small Pipe,1,Connects water pump to plant pot,173,173,https://amzn.in/d/00z93gZ
+9,Tubing / Small Pipe,1,Connects water pump to plant pot,239,239,https://amzn.in/d/00z93gZ
 10,Power Bank / 5V Battery Pack,1,Provides portable power to ESP32 & sensors,899,899,https://amzn.in/d/jcUfgKE
 11,Component Storage Case,1,Used to safely store all electronic components,699,699,https://amzn.in/d/9KpNJyE
 
-,,Total Project Cost (INR),,,4292,
+,,Total Project Cost (INR),,,4411,
